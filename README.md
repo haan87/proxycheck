@@ -1,6 +1,16 @@
 ProxyCheck
 Tool Untuk Mengecek Proxy Aktif
 
+
+
+<!---[Sumber Coding Source Create Bye]-->
+Github : https://github.com/kumpulanremaja/
+Fanspage :  https://facebook.com/4kumpulanremaja
+web : http://kumpulanremaja.com
+Source Bye kumpulan remaja
+<!---[Sumber Coding Source Create Bye]-->
+
+
 Cara Install
 apt update && apt upgrade
 pkg install php
